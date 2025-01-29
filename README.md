@@ -16,19 +16,12 @@ Each model is trained using different **text representation techniques** like **
 
 ## 🚀 Models and Techniques
 ### 1️⃣ Machine Learning (ML) Models
-#### 🔹 Naïve Bayes
-- TF-IDF
-- Word2Vec (Skip-gram & CBOW)
-- BERT embeddings
-- ELMo embeddings
-
-#### 🔹 Random Forest
-- TF-IDF
-- Word2Vec (Skip-gram & CBOW)
-- BERT embeddings
-- ELMo embeddings
-
-#### 🔹 Decision Tree & XGBoost
+- Naïve Bayes
+- Random Forest
+- Decision Tree
+- XGBoost
+  
+All models are trained using:
 - TF-IDF
 - Word2Vec (Skip-gram & CBOW)
 - BERT embeddings
