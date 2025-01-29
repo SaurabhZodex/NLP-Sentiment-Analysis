@@ -70,6 +70,6 @@ All models are trained using:
 ## 🛠️ Installation & Setup
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-repo/NLP-Sentiment-Analysis.git
+https://github.com/SaurabhZodex/NLP-Sentiment-Analysis.git
 cd NLP-Sentiment-Analysis
 ```
