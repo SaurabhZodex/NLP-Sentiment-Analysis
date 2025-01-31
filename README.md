@@ -17,15 +17,14 @@ Each model is trained using different **text representation techniques** like **
 ## 🚀 Models and Techniques
 ### 1️⃣ Machine Learning (ML) Models
 - Naïve Bayes
-- Random Forest
-- Decision Tree
+- Logistic Regression
+- Linear SVC
 - XGBoost
   
 All models are trained using:
 - TF-IDF
-- Word2Vec (Skip-gram & CBOW)
+- Word2Vec
 - BERT embeddings
-- ELMo embeddings
 
 ---
 
@@ -36,9 +35,8 @@ All models are trained using:
 
 All models are trained using:
 - TF-IDF
-- Word2Vec (Skip-gram & CBOW)
+- Word2Vec
 - BERT embeddings
-- ELMo embeddings
 
 ---
 
@@ -51,11 +49,11 @@ All models are trained using:
 ## 📂 Repository Structure
 ```
 📂 NLP-Sentiment-Analysis
-│-- 📁 data             # Dataset and preprocessing scripts
-│-- 📁 models           # ML, DL, and LLM models
-│-- 📁 embeddings       # Word embeddings (TF-IDF, Word2Vec, BERT, ELMo)
+│-- 📁 data             # Dataset 
 │-- 📄 README.md       # Project documentation
 │-- 📄 requirements.txt # Dependencies
+|-- 📄 sentiment_analysis_ml_approach.ipynb # ML based approach
+|-- 📄 sentiment_analysis_dl_approach.ipynb # ML based approach
 ```
 
 ---
