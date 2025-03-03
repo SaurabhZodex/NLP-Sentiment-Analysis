@@ -10,7 +10,7 @@ This project implements sentiment analysis using different approaches:
 - **Deep Learning (DL) Models**
 - **Large Language Models (LLMs) and Transformers**
 
-Each model is trained using different **text representation techniques** like **TF-IDF, Word2Vec, BERT embeddings, and ELMo embeddings**.
+Each model is trained using different **text representation techniques** like **TF-IDF, GloVe, BERT embeddings, and ELMo embeddings**.
 
 ---
 
@@ -23,7 +23,7 @@ Each model is trained using different **text representation techniques** like **
   
 All models are trained using:
 - TF-IDF
-- Word2Vec
+- GloVe
 - BERT embeddings
 
 ---
@@ -35,7 +35,7 @@ All models are trained using:
 
 All models are trained using:
 - TF-IDF
-- Word2Vec
+- GloVe
 - BERT embeddings
 
 ---
