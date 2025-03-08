@@ -10,7 +10,7 @@ This project implements sentiment analysis using different approaches:
 - **Deep Learning (DL) Models**
 - **Large Language Models (LLMs) and Transformers**
 
-Each model is trained using different **text representation techniques** like **TF-IDF, GloVe, BERT embeddings, and ELMo embeddings**.
+Each model is trained using different **text representation techniques** like **TF-IDF, GloVe, BERT embeddings or ELMo embeddings**.
 
 ---
 
